@@ -12,7 +12,7 @@ tickLe mY f0rtNIT3 baLLs
 
 #  
 
-![Time in the UK](https://img.shields.io/badge/Time%20in%20UK-GMT%2B0-green?style=for-the-badge)
+![Timezone](https://img.shields.io/badge/Time%20in%20UK-GMT%2B0-green?style=for-the-badge)
 
 # b00wamPs ! s0CIalS 
 
