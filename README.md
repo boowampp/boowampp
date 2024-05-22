@@ -8,5 +8,6 @@ tickLe mY f0rtNIT3 baLLs
 
 ![Boowamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=boowampp&show_icons=true&theme=radical)
 
+![Timezone](https://img.shields.io/badge/Timezone-UTC%2B0-green?style=for-the-badge&logo=watch)
 
 [![Discord](https://img.shields.io/badge/Discord-boowamp-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/842566547389153300)
