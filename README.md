@@ -3,9 +3,9 @@
 
 b3st . pAsT3R eu 
 
+
 l3arnIng sL0WlY buT ! sUReLy . 
 
-tickLe mY f0rtNIT3 baLLs
 
 # b00WAmPs . githuB > sTatS !
 
