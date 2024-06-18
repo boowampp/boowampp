@@ -1,25 +1,21 @@
-# thIS iS b00waMps ! giThuB w3Lc0M3 !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F009C&random=false&width=435&lines=skibidi+toilet)](https://git.io/typing-svg)
 
-
-b3st . pAsT3R eu 
-
-
-l3arnIng sL0WlY buT ! sUReLy . 
-
-
-# b00WAmPs . githuB > sTatS !
+# Stats
 
 
 ![Boowamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=boowampp&show_icons=true&theme=radical)
 
-# b00wamPs ! s0CIalS 
+
+# Socials 
 
 
 [![YouTube boowamp](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHh0D97D0U36fTbR0-BC-Gw)
 
+
 [![Discord](https://img.shields.io/badge/Discord-boowamp-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/842566547389153300)
 
 
-#  b00WAMPS tIme z0Ne
+#  Time
+
 
 ![Timezone](https://img.shields.io/badge/Time%20in%20UK-GMT%2B0-green?style=for-the-badge)
